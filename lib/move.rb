@@ -18,3 +18,4 @@ def input_to_index(user_input)
 '7'.to_i
 '8'.to_i
 '9'.to_i
+end
