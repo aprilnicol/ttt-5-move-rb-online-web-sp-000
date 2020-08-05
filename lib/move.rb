@@ -17,4 +17,3 @@ player = "X"
 def move(board, input_to_index, players_character)
   board[input_to_index]= player
 end
-move(board, " ", "X")
